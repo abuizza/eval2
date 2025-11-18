@@ -1,0 +1,197 @@
+{
+  "id": "fe9ffe8b-963e-486d-804d-4857fa3cd137",
+  "title": "eval2",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
+    "site": {
+      "name": "eval2",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true,
+        "private": false,
+        "pathauto": false,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
+      },
+      "created": 1763159289,
+      "updated": 1763420717,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      },
+      "version": "11.0.5",
+      "domain": null,
+      "tags": null,
+      "static": {}
+    },
+    "theme": {
+      "element": "custom-eval2-theme",
+      "path": "custom/build/custom.es6.js",
+      "name": "Custom Eval2 Theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "variables": {
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null,
+        "hexCode": null,
+        "cssVariable": "--simple-colors-default-theme-null-7",
+        "icon": null
+      },
+      "regions": {}
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.5",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
+      "indent": 0,
+      "location": "pages/item-db8bdf8a-82ab-4c4f-8beb-f01120219854/index.html",
+      "slug": "halo",
+      "order": 1,
+      "parent": null,
+      "title": "Selamat Datang to eval2",
+      "description": "\n\nSharp looking sectionThis is some sharp looking, well presented contentReally sharp\n\nWelcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks ",
+      "metadata": {
+        "created": 1763159287,
+        "updated": 1763420272,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {},
+        "status": ""
+      }
+    },
+    {
+      "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
+      "indent": 1,
+      "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
+      "slug": "welcome/page",
+      "order": 0,
+      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763159339,
+        "updated": 1763419578,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
+      "indent": 1,
+      "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
+      "slug": "welcome/page-copy",
+      "order": 1,
+      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
+      "title": "Page Copy",
+      "description": "",
+      "metadata": {
+        "created": 1763159343,
+        "updated": 1763419578,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-04aae1bd-38ed-4043-ad23-fc5ab89382e1",
+      "indent": 0,
+      "location": "pages/item-04aae1bd-38ed-4043-ad23-fc5ab89382e1/index.html",
+      "slug": "welcome-to-eval2-copy",
+      "order": 2,
+      "parent": null,
+      "title": "Welcome to eval2 Copy",
+      "description": "",
+      "metadata": {
+        "created": 1763159353,
+        "updated": 1763419578,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
+      "indent": 0,
+      "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome",
+      "description": "tes kosong\n\n",
+      "metadata": {
+        "created": 1763418769,
+        "updated": 1763420717,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "accentColor": "pink",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "url": "files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "type": "image/jpeg",
+            "name": "syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "size": 1896691
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "url": "files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "type": "image/jpeg",
+            "name": "syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "size": 1781365
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\bantalmp4.mp4",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/bantalmp4.mp4",
+            "url": "files/bantalmp4.mp4",
+            "type": "video/mp4",
+            "name": "bantalmp4.mp4",
+            "size": 1627736
+          }
+        ],
+        "status": ""
+      }
+    }
+  ]
+}

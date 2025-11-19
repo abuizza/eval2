@@ -226,6 +226,14 @@
             "type": "image/jpeg",
             "name": "coding.jpg",
             "size": 3448244
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\belajar.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/belajar.jpg",
+            "url": "files/belajar.jpg",
+            "type": "image/jpeg",
+            "name": "belajar.jpg",
+            "size": 1187785
           }
         ]
       }

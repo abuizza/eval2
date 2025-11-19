@@ -234,6 +234,14 @@
             "type": "image/jpeg",
             "name": "belajar.jpg",
             "size": 1187785
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\halo-dunia.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/halo-dunia.jpg",
+            "url": "files/halo-dunia.jpg",
+            "type": "image/jpeg",
+            "name": "halo-dunia.jpg",
+            "size": 4199499
           }
         ]
       }

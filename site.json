@@ -217,7 +217,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\coding.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/coding.jpg",
+            "url": "files/coding.jpg",
+            "type": "image/jpeg",
+            "name": "coding.jpg",
+            "size": 3448244
+          }
+        ]
       }
     }
   ]

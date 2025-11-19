@@ -192,6 +192,22 @@
         ],
         "status": ""
       }
+    },
+    {
+      "id": "item-16c4b08b-6f6f-4be0-8a26-144cb340df98",
+      "indent": 0,
+      "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
+      "slug": "welcome-copy",
+      "order": 1,
+      "parent": null,
+      "title": "Welcome Copy",
+      "description": "",
+      "metadata": {
+        "created": 1763588174,
+        "updated": 1763588174,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

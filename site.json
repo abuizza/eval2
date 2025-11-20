@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763681986,
+      "updated": 1763682052,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -67,16 +67,18 @@
       "slug": "welcome/page",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "pertanyaan-pertanian",
+      "description": "Contoh 10 Pertanyaan!\n10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:\nT",
       "metadata": {
         "created": 1763159339,
-        "updated": 1763681522,
-        "images": [],
-        "videos": [],
+        "updated": 1763682052,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

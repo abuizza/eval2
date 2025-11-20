@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763681440,
+      "updated": 1763681452,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -65,13 +65,13 @@
       "indent": 0,
       "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
       "slug": "welcome/page",
-      "order": 3,
+      "order": 2,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1763159339,
-        "updated": 1763681403,
+        "updated": 1763681452,
         "images": [],
         "videos": [],
         "published": true,
@@ -90,7 +90,7 @@
       "description": "",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763681403,
+        "updated": 1763681452,
         "images": [],
         "videos": [],
         "published": true,
@@ -109,7 +109,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1763159353,
-        "updated": 1763681403,
+        "updated": 1763681452,
         "images": {},
         "videos": {},
         "published": true,
@@ -124,13 +124,13 @@
       "indent": 0,
       "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
       "slug": "home",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Selamat Datang di Media Belajar Berpikir",
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763681403,
+        "updated": 1763681452,
         "images": {},
         "videos": {},
         "published": true,
@@ -185,7 +185,7 @@
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763681440,
+        "updated": 1763681452,
         "images": {},
         "videos": {},
         "theme": {

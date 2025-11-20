@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763458308,
+      "updated": 1763678712,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -127,15 +127,17 @@
       "order": 2,
       "parent": null,
       "title": "Welcome to eval2 Copy",
-      "description": "",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1763159353,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
+        "updated": 1763678712,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
@@ -149,7 +151,7 @@
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763458308,
+        "updated": 1763549829,
         "images": {},
         "videos": {},
         "published": true,
@@ -191,6 +193,59 @@
           }
         ],
         "status": ""
+      }
+    },
+    {
+      "id": "item-16c4b08b-6f6f-4be0-8a26-144cb340df98",
+      "indent": 0,
+      "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
+      "slug": "portfolio",
+      "order": 3,
+      "parent": null,
+      "title": "Welcome Copy",
+      "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
+      "metadata": {
+        "created": 1763588174,
+        "updated": 1763593929,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\coding.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/coding.jpg",
+            "url": "files/coding.jpg",
+            "type": "image/jpeg",
+            "name": "coding.jpg",
+            "size": 3448244
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\belajar.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/belajar.jpg",
+            "url": "files/belajar.jpg",
+            "type": "image/jpeg",
+            "name": "belajar.jpg",
+            "size": 1187785
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\halo-dunia.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/halo-dunia.jpg",
+            "url": "files/halo-dunia.jpg",
+            "type": "image/jpeg",
+            "name": "halo-dunia.jpg",
+            "size": 4199499
+          }
+        ]
       }
     }
   ]

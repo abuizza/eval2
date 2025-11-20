@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763678712,
+      "updated": 1763682366,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -61,76 +61,17 @@
   },
   "items": [
     {
-      "id": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "indent": 0,
-      "location": "pages/item-db8bdf8a-82ab-4c4f-8beb-f01120219854/index.html",
-      "slug": "halo",
-      "order": 1,
-      "parent": null,
-      "title": "Selamat Datang to eval2",
-      "description": "\n\nSharp looking sectionThis is some sharp looking, well presented contentReally sharp\n\nWelcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks ",
-      "metadata": {
-        "created": 1763159287,
-        "updated": 1763420272,
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "status": ""
-      }
-    },
-    {
       "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
       "slug": "welcome/page",
-      "order": 0,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "title": "Page",
-      "description": "",
+      "order": 1,
+      "parent": null,
+      "title": "pertanyaan-pertanian",
+      "description": "Contoh 10 Pertanyaan!\n10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:\nT",
       "metadata": {
         "created": 1763159339,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
-      "indent": 1,
-      "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
-      "slug": "welcome/page-copy",
-      "order": 1,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "title": "Page Copy",
-      "description": "",
-      "metadata": {
-        "created": 1763159343,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-04aae1bd-38ed-4043-ad23-fc5ab89382e1",
-      "indent": 0,
-      "location": "pages/item-04aae1bd-38ed-4043-ad23-fc5ab89382e1/index.html",
-      "slug": "welcome-to-eval2-copy",
-      "order": 2,
-      "parent": null,
-      "title": "Welcome to eval2 Copy",
-      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
-      "metadata": {
-        "created": 1763159353,
-        "updated": 1763678712,
+        "updated": 1763682052,
         "images": {},
         "videos": {},
         "published": true,
@@ -141,21 +82,43 @@
       }
     },
     {
-      "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
+      "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "indent": 0,
-      "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
-      "slug": "page",
+      "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
+      "slug": "welcome/page-copy",
       "order": 0,
       "parent": null,
-      "title": "Welcome",
-      "description": "tes kosong\n\n",
+      "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+      "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
-        "created": 1763418769,
-        "updated": 1763549829,
+        "created": 1763159343,
+        "updated": 1763681986,
         "images": {},
         "videos": {},
         "published": true,
+        "locked": false,
+        "status": "",
+        "pageType": "content",
         "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
+      "indent": 0,
+      "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
+      "slug": "home",
+      "order": 2,
+      "parent": null,
+      "title": "Selamat Datang di Media Belajar Berpikir",
+      "description": "tes kosong\n\n",
+      "metadata": {
+        "created": 1763418769,
+        "updated": 1763682366,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "theme": {
@@ -206,7 +169,7 @@
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763593929,
+        "updated": 1763681522,
         "images": {},
         "videos": {},
         "theme": {
@@ -217,7 +180,7 @@
           "key": "haxcms-blank-theme"
         },
         "published": true,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 2,
         "files": [
@@ -245,7 +208,8 @@
             "name": "halo-dunia.jpg",
             "size": 4199499
           }
-        ]
+        ],
+        "status": ""
       }
     }
   ]

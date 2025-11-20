@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763678712,
+      "updated": 1763681379,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -123,18 +123,18 @@
       "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
       "indent": 0,
       "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
-      "slug": "page",
+      "slug": "home",
       "order": 0,
       "parent": null,
-      "title": "Welcome",
+      "title": "Selamat Datang di Media Belajar Berpikir",
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763549829,
+        "updated": 1763681379,
         "images": {},
         "videos": {},
         "published": true,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "theme": {

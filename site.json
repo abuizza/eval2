@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763681522,
+      "updated": 1763681986,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -86,16 +86,19 @@
       "slug": "welcome/page-copy",
       "order": 0,
       "parent": null,
-      "title": "Page Copy",
-      "description": "",
+      "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+      "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763681522,
-        "images": [],
-        "videos": [],
+        "updated": 1763681986,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "pageType": "content",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

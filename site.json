@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763593929,
+      "updated": 1763677642,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -127,15 +127,17 @@
       "order": 2,
       "parent": null,
       "title": "Welcome to eval2 Copy",
-      "description": "",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1763159353,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
+        "updated": 1763677642,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

@@ -61,33 +61,12 @@
   },
   "items": [
     {
-      "id": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "indent": 0,
-      "location": "pages/item-db8bdf8a-82ab-4c4f-8beb-f01120219854/index.html",
-      "slug": "halo",
-      "order": 1,
-      "parent": null,
-      "title": "Selamat Datang to eval2",
-      "description": "\n\nSharp looking sectionThis is some sharp looking, well presented contentReally sharp\n\nWelcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks ",
-      "metadata": {
-        "created": 1763159287,
-        "updated": 1763420272,
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "status": ""
-      }
-    },
-    {
       "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
       "indent": 1,
       "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
       "slug": "welcome/page",
-      "order": 0,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
+      "order": 4,
+      "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
@@ -105,8 +84,8 @@
       "indent": 1,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
       "slug": "welcome/page-copy",
-      "order": 1,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
+      "order": 5,
+      "parent": null,
       "title": "Page Copy",
       "description": "",
       "metadata": {

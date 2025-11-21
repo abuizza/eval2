@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763726345,
+      "updated": 1763731023,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763726345,
+        "updated": 1763731023,
         "images": {},
         "videos": {},
         "published": true,
@@ -79,7 +79,7 @@
         "hideInMenu": true,
         "tags": "kritis",
         "locked": false,
-        "readtime": 4,
+        "readtime": 6,
         "icon": "hax:lesson",
         "theme": {
           "element": "polaris-flex-theme",

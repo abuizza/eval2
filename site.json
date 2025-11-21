@@ -184,36 +184,6 @@
       }
     },
     {
-      "id": "item-26a57397-d5bb-47c7-8c56-a7f4c98c9412",
-      "indent": 2,
-      "location": "pages/item-26a57397-d5bb-47c7-8c56-a7f4c98c9412/index.html",
-      "slug": "page/kriteria",
-      "order": 1,
-      "parent": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
-      "title": "Identifikasi kriteria",
-      "description": "📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.\n\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n\n",
-      "metadata": {
-        "created": 1763697972,
-        "updated": 1763725506,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "theme": {
-          "element": "learn-two-theme",
-          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
-          "name": "Learn theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
-          "key": "learn-two-theme"
-        },
-        "pageType": "content",
-        "hideInMenu": false,
-        "readtime": 1,
-        "icon": "lrn:page"
-      }
-    },
-    {
       "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "indent": 1,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",

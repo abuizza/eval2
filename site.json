@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763696728,
+      "updated": 1763697213,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -115,16 +115,28 @@
       "id": "item-55b28b4e-2eba-4b06-869b-1540396ada20",
       "indent": 0,
       "location": "pages/item-55b28b4e-2eba-4b06-869b-1540396ada20/index.html",
-      "slug": "page/sekolah-di-masa-pandemi-copy",
+      "slug": "page/identifikasi-masalah",
       "order": 1,
       "parent": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "title": "Sekolah di Masa Pandemi Copy",
-      "description": "",
+      "title": "Identifikasi Masalah",
+      "description": "Di masa pandemi Covid-19, hingga bulan April 2021 Kementerian Komunikasi dan Informatika bahkan mencatat 1.733 hoaks terkait Covid-19 dan vaksin (Agustini, 2021). Beberapa berita hoaks terkait vaksin",
       "metadata": {
         "created": 1763696746,
-        "updated": 1763696746,
-        "images": [],
-        "videos": []
+        "updated": 1763697213,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "published": true,
+        "pageType": "module",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

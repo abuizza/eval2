@@ -82,6 +82,22 @@
       }
     },
     {
+      "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+      "indent": 0,
+      "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
+      "slug": "page/page",
+      "order": 0,
+      "parent": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763695481,
+        "updated": 1763695481,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "indent": 0,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",

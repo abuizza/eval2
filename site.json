@@ -146,6 +146,14 @@
             "type": "image/jpeg",
             "name": "terbaik.jpg",
             "size": 26097
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan.jpg",
+            "url": "files/keputusan.jpg",
+            "type": "image/jpeg",
+            "name": "keputusan.jpg",
+            "size": 23150
           }
         ],
         "image": "files/thinking.jpg"

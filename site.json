@@ -61,27 +61,6 @@
   },
   "items": [
     {
-      "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "indent": 2,
-      "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
-      "slug": "welcome/page",
-      "order": 0,
-      "parent": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
-      "title": "pertanyaan-pertanian",
-      "description": "Contoh 10 Pertanyaan!\n10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:\nT",
-      "metadata": {
-        "created": 1763159339,
-        "updated": 1763716114,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
       "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
       "indent": 1,
       "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",

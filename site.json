@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763717027,
+      "updated": 1763717288,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -174,14 +174,14 @@
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763717027,
+        "updated": 1763717288,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "pageType": "content",
-        "hideInMenu": false,
+        "hideInMenu": true,
         "readtime": 2,
         "icon": "lrn:page",
         "tags": "kritis",
@@ -194,7 +194,15 @@
             "name": "tani.jpg",
             "size": 146355
           }
-        ]
+        ],
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "image": "files/tani.jpg"
       }
     },
     {

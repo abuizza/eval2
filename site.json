@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763696383,
+      "updated": 1763696507,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -88,11 +88,11 @@
       "slug": "page/kritis",
       "order": 0,
       "parent": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "title": "Berpikir Kritis",
+      "title": "Sekolah di Masa Pandemi",
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763696383,
+        "updated": 1763696507,
         "images": {},
         "videos": {},
         "published": true,
@@ -101,7 +101,14 @@
         "tags": "kritis",
         "locked": false,
         "readtime": 1,
-        "icon": "hax:lesson"
+        "icon": "hax:lesson",
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        }
       }
     },
     {

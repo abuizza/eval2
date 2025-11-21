@@ -106,6 +106,14 @@
             "type": "image/jpeg",
             "name": "libur-selamanya.jpg",
             "size": 16272
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\kriteria.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/kriteria.jpg",
+            "url": "files/kriteria.jpg",
+            "type": "image/jpeg",
+            "name": "kriteria.jpg",
+            "size": 15567
           }
         ],
         "image": "files/thinking.jpg"

@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763722831,
+      "updated": 1763722954,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -347,7 +347,7 @@
         "created": 1763716114,
         "images": {},
         "videos": {},
-        "updated": 1763722831,
+        "updated": 1763722954,
         "published": true,
         "pageType": "content",
         "hideInMenu": true,
@@ -365,11 +365,11 @@
           }
         ],
         "theme": {
-          "element": "learn-two-theme",
-          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
-          "name": "Learn theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
-          "key": "learn-two-theme"
+          "element": "polaris-theme",
+          "path": "@haxtheweb/polaris-theme/polaris-theme.js",
+          "name": "Polaris - 2020",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-theme"
         },
         "image": "files/brain.jpg",
         "tags": "materi",

@@ -369,6 +369,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-64173c3b-2b65-4ea2-8850-f9f532fa6f2d",
+      "indent": 0,
+      "location": "pages/item-64173c3b-2b65-4ea2-8850-f9f532fa6f2d/index.html",
+      "slug": "page-2",
+      "order": 3,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763717441,
+        "updated": 1763717441,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

@@ -110,7 +110,17 @@
           "key": "learn-two-theme"
         },
         "status": "",
-        "accentColor": "pink"
+        "accentColor": "pink",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\thinking.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/thinking.jpg",
+            "url": "files/thinking.jpg",
+            "type": "image/jpeg",
+            "name": "thinking.jpg",
+            "size": 48295
+          }
+        ]
       }
     },
     {

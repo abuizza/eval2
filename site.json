@@ -98,6 +98,14 @@
             "type": "image/jpeg",
             "name": "thinking.jpg",
             "size": 48295
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\libur-selamanya.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/libur-selamanya.jpg",
+            "url": "files/libur-selamanya.jpg",
+            "type": "image/jpeg",
+            "name": "libur-selamanya.jpg",
+            "size": 16272
           }
         ],
         "image": "files/thinking.jpg"

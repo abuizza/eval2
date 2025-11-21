@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763719873,
+      "updated": 1763721207,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -68,10 +68,10 @@
       "order": 1,
       "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
       "title": "Berpikir Kritis dan Pengambilan Keputusan",
-      "description": "\n",
+      "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763719873,
+        "updated": 1763721207,
         "images": {},
         "videos": {},
         "published": true,
@@ -79,7 +79,7 @@
         "hideInMenu": true,
         "tags": "kritis",
         "locked": false,
-        "readtime": 1,
+        "readtime": 2,
         "icon": "hax:lesson",
         "theme": {
           "element": "polaris-theme",

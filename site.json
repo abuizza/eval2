@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763719148,
+      "updated": 1763719184,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763719148,
+        "updated": 1763719184,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 1,
         "icon": "hax:lesson",
         "theme": {
-          "element": "training-theme",
-          "path": "@haxtheweb/training-theme/training-theme.js",
-          "name": "Training theme",
+          "element": "haxor-slevin",
+          "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
+          "name": "Haxor Blog theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "training-theme"
+          "key": "haxor-slevin"
         },
         "status": "",
         "accentColor": "pink",

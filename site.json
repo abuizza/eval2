@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763719073,
+      "updated": 1763719148,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763719073,
+        "updated": 1763719148,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 1,
         "icon": "hax:lesson",
         "theme": {
-          "element": "collections-theme",
-          "path": "@haxtheweb/collection-list/lib/collections-theme.js",
-          "name": "Collections theme",
+          "element": "training-theme",
+          "path": "@haxtheweb/training-theme/training-theme.js",
+          "name": "Training theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "collections-theme"
+          "key": "training-theme"
         },
         "status": "",
         "accentColor": "pink",

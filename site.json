@@ -130,6 +130,14 @@
             "type": "image/jpeg",
             "name": "alternatif.jpg",
             "size": 29418
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\evaluasi.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/evaluasi.jpg",
+            "url": "files/evaluasi.jpg",
+            "type": "image/jpeg",
+            "name": "evaluasi.jpg",
+            "size": 32593
           }
         ],
         "image": "files/thinking.jpg"

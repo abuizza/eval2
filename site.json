@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763717486,
+      "updated": 1763717700,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -341,16 +341,16 @@
       "order": 3,
       "parent": null,
       "title": "Bab Berpikir Kritis dan Dampak Sosial Informatika",
-      "description": "Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk&#160;dalam bidang ",
+      "description": "Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk dalam bidang ",
       "metadata": {
         "locked": false,
         "created": 1763716114,
         "images": {},
         "videos": {},
-        "updated": 1763717486,
+        "updated": 1763717700,
         "published": true,
         "pageType": "content",
-        "hideInMenu": false,
+        "hideInMenu": true,
         "readtime": 1,
         "status": "",
         "icon": "lrn:page",
@@ -363,7 +363,17 @@
             "name": "brain.jpg",
             "size": 26946
           }
-        ]
+        ],
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "image": "files/brain.jpg",
+        "tags": "materi",
+        "accentColor": "pink"
       }
     },
     {

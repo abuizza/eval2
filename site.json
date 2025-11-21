@@ -170,6 +170,14 @@
             "type": "image/jpeg",
             "name": "pengambilan-keputusan.jpg",
             "size": 31171
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\sekolah-pandemi.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/sekolah-pandemi.jpg",
+            "url": "files/sekolah-pandemi.jpg",
+            "type": "image/jpeg",
+            "name": "sekolah-pandemi.jpg",
+            "size": 96005
           }
         ],
         "image": "files/thinking.jpg"

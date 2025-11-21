@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763715069,
+      "updated": 1763715181,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -85,14 +85,14 @@
       "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
       "indent": 0,
       "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
-      "slug": "page/kritis",
+      "slug": "kritis",
       "order": 1,
       "parent": null,
       "title": "Sekolah di Masa Pandemi",
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763698059,
+        "updated": 1763715181,
         "images": {},
         "videos": {},
         "published": true,
@@ -109,7 +109,8 @@
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
           "key": "learn-two-theme"
         },
-        "status": ""
+        "status": "",
+        "accentColor": "pink"
       }
     },
     {

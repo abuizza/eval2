@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763716899,
+      "updated": 1763717027,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -188,14 +188,14 @@
       "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "indent": 0,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
-      "slug": "welcome/page-copy",
+      "slug": "welcome/penerapan",
       "order": 0,
       "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
       "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763716899,
+        "updated": 1763717027,
         "images": {},
         "videos": {},
         "published": true,
@@ -204,7 +204,8 @@
         "pageType": "content",
         "hideInMenu": false,
         "readtime": 2,
-        "icon": "lrn:page"
+        "icon": "lrn:page",
+        "tags": "kritis"
       }
     },
     {

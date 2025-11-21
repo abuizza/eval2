@@ -112,6 +112,22 @@
       }
     },
     {
+      "id": "item-4f946678-0aa6-4866-bb4d-f1395b745033",
+      "indent": 0,
+      "location": "pages/item-4f946678-0aa6-4866-bb4d-f1395b745033/index.html",
+      "slug": "page/page",
+      "order": 1,
+      "parent": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763696731,
+        "updated": 1763696731,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "indent": 0,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",

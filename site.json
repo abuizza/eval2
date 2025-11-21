@@ -162,6 +162,14 @@
             "type": "image/jpeg",
             "name": "evaluasi-keputusan.jpg",
             "size": 25811
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\pengambilan-keputusan.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/pengambilan-keputusan.jpg",
+            "url": "files/pengambilan-keputusan.jpg",
+            "type": "image/jpeg",
+            "name": "pengambilan-keputusan.jpg",
+            "size": 31171
           }
         ],
         "image": "files/thinking.jpg"

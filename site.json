@@ -114,6 +114,14 @@
             "type": "image/jpeg",
             "name": "kriteria.jpg",
             "size": 15567
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\viral.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/viral.jpg",
+            "url": "files/viral.jpg",
+            "type": "image/jpeg",
+            "name": "viral.jpg",
+            "size": 15690
           }
         ],
         "image": "files/thinking.jpg"

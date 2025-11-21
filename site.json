@@ -314,6 +314,22 @@
         ],
         "status": ""
       }
+    },
+    {
+      "id": "item-2311a755-d0fc-430b-b0d5-c92738573e16",
+      "indent": 0,
+      "location": "pages/item-2311a755-d0fc-430b-b0d5-c92738573e16/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763716065,
+        "updated": 1763716065,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

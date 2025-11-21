@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763716114,
+      "updated": 1763716430,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -339,17 +339,21 @@
       "id": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
       "indent": 0,
       "location": "pages/item-45efd8c7-dfb3-4367-a95e-540092fe9d35/index.html",
-      "slug": "copy-of-page",
+      "slug": "bab3",
       "order": 1,
       "parent": null,
-      "title": "Copy of Page",
-      "description": "",
+      "title": "Bab Berpikir Kritis dan Dampak Sosial Informatika",
+      "description": "Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk&#160;dalam bidang ",
       "metadata": {
         "locked": false,
         "created": 1763716114,
-        "images": [],
-        "videos": [],
-        "updated": 1763716114
+        "images": {},
+        "videos": {},
+        "updated": 1763716430,
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]

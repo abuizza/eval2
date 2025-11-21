@@ -184,7 +184,17 @@
         "hideInMenu": false,
         "readtime": 2,
         "icon": "lrn:page",
-        "tags": "kritis"
+        "tags": "kritis",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\tani.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/tani.jpg",
+            "url": "files/tani.jpg",
+            "type": "image/jpeg",
+            "name": "tani.jpg",
+            "size": 146355
+          }
+        ]
       }
     },
     {

@@ -122,6 +122,14 @@
             "type": "image/jpeg",
             "name": "viral.jpg",
             "size": 15690
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\alternatif.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/alternatif.jpg",
+            "url": "files/alternatif.jpg",
+            "type": "image/jpeg",
+            "name": "alternatif.jpg",
+            "size": 29418
           }
         ],
         "image": "files/thinking.jpg"

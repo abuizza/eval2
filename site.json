@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763719184,
+      "updated": 1763719361,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763719184,
+        "updated": 1763719361,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 1,
         "icon": "hax:lesson",
         "theme": {
-          "element": "haxor-slevin",
-          "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
-          "name": "Haxor Blog theme",
+          "element": "terrible-themes",
+          "path": "@haxtheweb/terrible-themes/terrible-themes.js",
+          "name": "Terrible apartment site",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "haxor-slevin"
+          "key": "terrible-themes"
         },
         "status": "",
         "accentColor": "pink",

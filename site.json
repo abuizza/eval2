@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763721799,
+      "updated": 1763722831,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -62,16 +62,16 @@
   "items": [
     {
       "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
       "slug": "kritis",
-      "order": 1,
+      "order": 0,
       "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
       "title": "Berpikir Kritis dan Pengambilan Keputusan",
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763721799,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "published": true,
@@ -114,7 +114,7 @@
       "description": "Di masa pandemi Covid-19, hingga bulan April 2021 Kementerian Komunikasi dan Informatika bahkan mencatat 1.733 hoaks terkait Covid-19 dan vaksin (Agustini, 2021). Beberapa berita hoaks terkait vaksin",
       "metadata": {
         "created": 1763696746,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "theme": {
@@ -144,7 +144,7 @@
       "description": "📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.\n\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n\n",
       "metadata": {
         "created": 1763697972,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "published": true,
@@ -168,13 +168,13 @@
       "indent": 1,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
       "slug": "welcome/penerapan",
-      "order": 0,
+      "order": 1,
       "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
       "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "published": true,
@@ -216,7 +216,7 @@
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "published": true,
@@ -271,7 +271,7 @@
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": {},
         "videos": {},
         "theme": {
@@ -325,7 +325,7 @@
       "description": "",
       "metadata": {
         "created": 1763716065,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": [],
         "videos": [],
         "published": true,
@@ -347,7 +347,7 @@
         "created": 1763716114,
         "images": {},
         "videos": {},
-        "updated": 1763717700,
+        "updated": 1763722831,
         "published": true,
         "pageType": "content",
         "hideInMenu": true,
@@ -387,7 +387,7 @@
       "description": "",
       "metadata": {
         "created": 1763717438,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": [],
         "videos": [],
         "published": true,
@@ -406,7 +406,7 @@
       "description": "",
       "metadata": {
         "created": 1763717441,
-        "updated": 1763717486,
+        "updated": 1763722831,
         "images": [],
         "videos": [],
         "published": true,

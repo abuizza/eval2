@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763725279,
+      "updated": 1763725442,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763725279,
+        "updated": 1763725442,
         "images": {},
         "videos": {},
         "published": true,
@@ -180,7 +180,7 @@
             "size": 96005
           }
         ],
-        "image": "files/thinking.jpg"
+        "image": "files/sekolah-pandemi.jpg"
       }
     },
     {

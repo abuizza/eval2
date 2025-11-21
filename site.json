@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763723069,
+      "updated": 1763723189,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -62,7 +62,7 @@
   "items": [
     {
       "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
       "slug": "kritis",
       "order": 0,
@@ -71,7 +71,7 @@
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763722831,
+        "updated": 1763723189,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 2,
         "icon": "hax:lesson",
         "theme": {
-          "element": "polaris-theme",
-          "path": "@haxtheweb/polaris-theme/polaris-theme.js",
-          "name": "Polaris - 2020",
+          "element": "polaris-flex-sidebar",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+          "name": "Polaris - Flex Sidebar",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "polaris-theme"
+          "key": "polaris-flex-sidebar"
         },
         "status": "",
         "accentColor": "pink",

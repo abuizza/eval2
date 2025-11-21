@@ -353,7 +353,17 @@
         "hideInMenu": false,
         "readtime": 1,
         "status": "",
-        "icon": "lrn:page"
+        "icon": "lrn:page",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\brain.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/brain.jpg",
+            "url": "files/brain.jpg",
+            "type": "image/jpeg",
+            "name": "brain.jpg",
+            "size": 26946
+          }
+        ]
       }
     },
     {

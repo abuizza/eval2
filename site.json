@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763719788,
+      "updated": 1763719873,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763719788,
+        "updated": 1763719873,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 1,
         "icon": "hax:lesson",
         "theme": {
-          "element": "ddd-brochure-theme",
-          "path": "@haxtheweb/d-d-d/lib/ddd-brochure-theme.js",
-          "name": "Brochure",
+          "element": "polaris-theme",
+          "path": "@haxtheweb/polaris-theme/polaris-theme.js",
+          "name": "Polaris - 2020",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "ddd-brochure-theme"
+          "key": "polaris-theme"
         },
         "status": "",
         "accentColor": "pink",

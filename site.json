@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763715677,
+      "updated": 1763715725,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -88,11 +88,11 @@
       "slug": "kritis",
       "order": 1,
       "parent": null,
-      "title": "Identifikasi Masalah",
+      "title": "Berpikir Kritis dan Pengambilan Keputusan",
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763715677,
+        "updated": 1763715725,
         "images": {},
         "videos": {},
         "published": true,

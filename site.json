@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763718948,
+      "updated": 1763719046,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763718948,
+        "updated": 1763719046,
         "images": {},
         "videos": {},
         "published": true,
@@ -82,11 +82,11 @@
         "readtime": 1,
         "icon": "hax:lesson",
         "theme": {
-          "element": "glossy-portfolio-theme",
-          "path": "@haxtheweb/glossy-portfolio-theme/glossy-portfolio-theme.js",
-          "name": "Glossy Portfolio theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "glossy-portfolio-theme"
+          "element": "bootstrap-theme",
+          "path": "@haxtheweb/bootstrap-theme/bootstrap-theme.js",
+          "name": "BootstrapCSS theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+          "key": "bootstrap-theme"
         },
         "status": "",
         "accentColor": "pink",

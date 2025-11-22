@@ -28,8 +28,15 @@ class CustomEval2Theme extends PolarisFlexTheme {
     return [
       super.styles,
       css`
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
         :host {
           display: block;
+          font-family: "Merriweather", serif;
+          font-optical-sizing: auto;
+          font-weight: 400;
+          font-style: normal;
+          font-variation-settings: "wdth" 100;
         }
         
         /* Desktop and tablet layout */
@@ -39,10 +46,10 @@ class CustomEval2Theme extends PolarisFlexTheme {
         }
         
         aside section h4 {
-          font-size: 16px;
+          font-size: 36px;
           margin: var(--ddd-spacing-0) var(--ddd-spacing-0) var(--ddd-spacing-6) var(--ddd-spacing-0);
           text-transform: lowercase;
-          font-family: "Open Sans", sans-serif;
+          font-family: "Merriweather", serif;
           font-weight: 300;
         }
 
@@ -59,7 +66,8 @@ class CustomEval2Theme extends PolarisFlexTheme {
           --site-children-block-link-hover-color: rgb(0, 95, 169);
           --site-children-block-active-border-left: rgb(0, 95, 169) 3px solid;
           --site-children-block-link-active-color: rgb(0, 30, 68);
-          font-family: "Roboto Condensed", sans-serif;
+          font-family: "Merriweather", serif;
+          font-weight: 400;
           font-size: 16px;
         }
         
@@ -111,6 +119,7 @@ class CustomEval2Theme extends PolarisFlexTheme {
             ></site-children-block>
           </section>
         </aside>
+    
     `
   }
 

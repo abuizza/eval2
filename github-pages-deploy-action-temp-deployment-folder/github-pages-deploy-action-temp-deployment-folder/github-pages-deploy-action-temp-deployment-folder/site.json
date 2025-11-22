@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763682366,
+      "updated": 1763698059,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -62,16 +62,16 @@
   "items": [
     {
       "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
       "slug": "welcome/page",
-      "order": 1,
-      "parent": null,
+      "order": 0,
+      "parent": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
       "title": "pertanyaan-pertanian",
       "description": "Contoh 10 Pertanyaan!\n10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:\nT",
       "metadata": {
         "created": 1763159339,
-        "updated": 1763682052,
+        "updated": 1763698059,
         "images": {},
         "videos": {},
         "published": true,
@@ -79,6 +79,86 @@
         "status": "",
         "hideInMenu": false,
         "readtime": 1
+      }
+    },
+    {
+      "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+      "indent": 0,
+      "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
+      "slug": "page/kritis",
+      "order": 1,
+      "parent": null,
+      "title": "Sekolah di Masa Pandemi",
+      "description": "\n",
+      "metadata": {
+        "created": 1763695481,
+        "updated": 1763698059,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "lesson",
+        "hideInMenu": false,
+        "tags": "kritis",
+        "locked": false,
+        "readtime": 1,
+        "icon": "hax:lesson",
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "status": ""
+      }
+    },
+    {
+      "id": "item-55b28b4e-2eba-4b06-869b-1540396ada20",
+      "indent": 1,
+      "location": "pages/item-55b28b4e-2eba-4b06-869b-1540396ada20/index.html",
+      "slug": "page/identifikasi-masalah",
+      "order": 0,
+      "parent": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+      "title": "Identifikasi Masalah",
+      "description": "Di masa pandemi Covid-19, hingga bulan April 2021 Kementerian Komunikasi dan Informatika bahkan mencatat 1.733 hoaks terkait Covid-19 dan vaksin (Agustini, 2021). Beberapa berita hoaks terkait vaksin",
+      "metadata": {
+        "created": 1763696746,
+        "updated": 1763698059,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "published": true,
+        "pageType": "module",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "icon": "hax:module"
+      }
+    },
+    {
+      "id": "item-26a57397-d5bb-47c7-8c56-a7f4c98c9412",
+      "indent": 1,
+      "location": "pages/item-26a57397-d5bb-47c7-8c56-a7f4c98c9412/index.html",
+      "slug": "page/page",
+      "order": 1,
+      "parent": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763697972,
+        "updated": 1763698059,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -92,7 +172,7 @@
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763681986,
+        "updated": 1763698059,
         "images": {},
         "videos": {},
         "published": true,
@@ -100,7 +180,8 @@
         "status": "",
         "pageType": "content",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "icon": "lrn:page"
       }
     },
     {
@@ -114,7 +195,7 @@
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763682366,
+        "updated": 1763698059,
         "images": {},
         "videos": {},
         "published": true,
@@ -169,7 +250,7 @@
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763681522,
+        "updated": 1763698059,
         "images": {},
         "videos": {},
         "theme": {

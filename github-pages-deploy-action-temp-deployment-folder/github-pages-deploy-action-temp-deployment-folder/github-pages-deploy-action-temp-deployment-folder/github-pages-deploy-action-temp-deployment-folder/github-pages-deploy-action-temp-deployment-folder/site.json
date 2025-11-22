@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763458308,
+      "updated": 1763682366,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -61,99 +61,64 @@
   },
   "items": [
     {
-      "id": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "indent": 0,
-      "location": "pages/item-db8bdf8a-82ab-4c4f-8beb-f01120219854/index.html",
-      "slug": "halo",
-      "order": 1,
-      "parent": null,
-      "title": "Selamat Datang to eval2",
-      "description": "\n\nSharp looking sectionThis is some sharp looking, well presented contentReally sharp\n\nWelcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks ",
-      "metadata": {
-        "created": 1763159287,
-        "updated": 1763420272,
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "status": ""
-      }
-    },
-    {
       "id": "item-a06f73e7-c2e6-406a-9649-0fa935f233f5",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-a06f73e7-c2e6-406a-9649-0fa935f233f5/index.html",
       "slug": "welcome/page",
-      "order": 0,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "title": "Page",
-      "description": "",
+      "order": 1,
+      "parent": null,
+      "title": "pertanyaan-pertanian",
+      "description": "Contoh 10 Pertanyaan!\n10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:\nT",
       "metadata": {
         "created": 1763159339,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
+        "updated": 1763682052,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
       "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
       "slug": "welcome/page-copy",
-      "order": 1,
-      "parent": "item-db8bdf8a-82ab-4c4f-8beb-f01120219854",
-      "title": "Page Copy",
-      "description": "",
+      "order": 0,
+      "parent": null,
+      "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+      "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
+        "updated": 1763681986,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-04aae1bd-38ed-4043-ad23-fc5ab89382e1",
-      "indent": 0,
-      "location": "pages/item-04aae1bd-38ed-4043-ad23-fc5ab89382e1/index.html",
-      "slug": "welcome-to-eval2-copy",
-      "order": 2,
-      "parent": null,
-      "title": "Welcome to eval2 Copy",
-      "description": "",
-      "metadata": {
-        "created": 1763159353,
-        "updated": 1763419578,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
+        "status": "",
+        "pageType": "content",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
       "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
       "indent": 0,
       "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
-      "slug": "page",
-      "order": 0,
+      "slug": "home",
+      "order": 2,
       "parent": null,
-      "title": "Welcome",
+      "title": "Selamat Datang di Media Belajar Berpikir",
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763458308,
+        "updated": 1763682366,
         "images": {},
         "videos": {},
         "published": true,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "theme": {
@@ -188,6 +153,60 @@
             "type": "video/mp4",
             "name": "bantalmp4.mp4",
             "size": 1627736
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-16c4b08b-6f6f-4be0-8a26-144cb340df98",
+      "indent": 0,
+      "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
+      "slug": "portfolio",
+      "order": 3,
+      "parent": null,
+      "title": "Welcome Copy",
+      "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
+      "metadata": {
+        "created": 1763588174,
+        "updated": 1763681522,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "published": true,
+        "hideInMenu": true,
+        "locked": false,
+        "readtime": 2,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\coding.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/coding.jpg",
+            "url": "files/coding.jpg",
+            "type": "image/jpeg",
+            "name": "coding.jpg",
+            "size": 3448244
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\belajar.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/belajar.jpg",
+            "url": "files/belajar.jpg",
+            "type": "image/jpeg",
+            "name": "belajar.jpg",
+            "size": 1187785
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\halo-dunia.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/halo-dunia.jpg",
+            "url": "files/halo-dunia.jpg",
+            "type": "image/jpeg",
+            "name": "halo-dunia.jpg",
+            "size": 4199499
           }
         ],
         "status": ""

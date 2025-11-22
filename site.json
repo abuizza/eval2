@@ -178,6 +178,14 @@
             "type": "image/jpeg",
             "name": "sekolah-pandemi.jpg",
             "size": 96005
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan-digital2.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan-digital2.jpg",
+            "url": "files/keputusan-digital2.jpg",
+            "type": "image/jpeg",
+            "name": "keputusan-digital2.jpg",
+            "size": 26942
           }
         ],
         "image": "files/sekolah-pandemi.jpg"

@@ -9,6 +9,8 @@ class ConfettiQuiz extends LitElement {
         currentQuestionIndex: { type: Number },
         showSummary: { type: Boolean },
         showIntroForm: { type: Boolean },
+        // Endpoint Google Apps Script (opsional, bisa juga dikonfig di quiz-sheets-sender)
+        webAppUrl: { type: String, attribute: 'web-app-url' },
         // JSON string attribute to supply questions dynamically
         questionsAttr: { type: String, attribute: 'questions' },
         // Alias: allow <confetti-quiz kuis='[...]'> as well
@@ -33,6 +35,9 @@ class ConfettiQuiz extends LitElement {
         this.currentQuestionIndex = 0;
         this.showSummary = false;
         this.showIntroForm = true;
+
+        // default kosong; diisi via atribut web-app-url pada <confetti-quiz>
+        this.webAppUrl = '';
 
         this.questionsAttr = '';
         this.kuisAttr = '';
@@ -454,7 +459,9 @@ class ConfettiQuiz extends LitElement {
                     kelas: this.userKelas,
                     absen: this.userAbsen,
                     address: this.userAddress,
-                }
+                },
+                // teruskan juga endpoint ke pendengar (quiz-sheets-sender)
+                webAppUrl: this.webAppUrl || this.getAttribute('web-app-url') || ''
             };
             this.dispatchEvent(new CustomEvent('quiz-finished', { detail, bubbles: true, composed: true }));
         } catch (e) {}

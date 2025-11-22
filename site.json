@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763779224,
+      "updated": 1763803369,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -412,15 +412,17 @@
       "order": 1,
       "parent": null,
       "title": "Page",
-      "description": "",
+      "description": "tes kuis\n",
       "metadata": {
         "created": 1763717438,
-        "updated": 1763725506,
-        "images": [],
-        "videos": [],
+        "updated": 1763803369,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

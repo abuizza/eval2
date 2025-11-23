@@ -18,12 +18,12 @@ export class EnhancedPauseComponent extends DDDSuper(LitElement) {
     this.showAllOption = false;
     this.labels = ["Content 1", "Content 2", "Content 3", "Content 4", "Content 5", "Content 6","Content 7","Content 8","Content 9","Content 10","Content 11","Content 12"];
     this._dddTokens = {};
-    console.log('EnhancedPauseComponent constructed');
+    // console.log('EnhancedPauseComponent constructed');
   }
 
   connectedCallback() {
     super.connectedCallback();
-    console.log('EnhancedPauseComponent connected');
+    // console.log('EnhancedPauseComponent connected');
   }
 
   firstUpdated(changedProperties) {
@@ -98,6 +98,55 @@ export class EnhancedPauseComponent extends DDDSuper(LitElement) {
       button:hidden {
         display: none;
       }
+
+           /* 2. Ink Drop Button */
+           button {
+            background: var(
+          --pause-button-bg,
+          var(--ddd-theme-default-link, #ffffff)
+        );
+            color: #333;
+            position: relative;
+            overflow: hidden;
+            padding: var(--ddd-spacing-4, 10px) var(--ddd-spacing-6, 20px);
+        /* background-color: var(
+          --pause-button-bg,
+          var(--ddd-theme-default-link, #f52675)
+        ); */
+        color: var(--pause-button-color, #ffffff);
+        border: none;
+        border-radius: var(--ddd-radius-md, 4px);
+        cursor: pointer;
+        transition: all 0.3s ease;
+        }
+
+        button::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            background: var(--ddd-theme-default-globalNeon);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            transition: width 0.6s ease, height 0.6s ease;
+        }
+
+        button:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        button:hover {
+            color: white;
+        }
+
+        button span {
+            position: relative;
+            z-index: 1;
+        }
+
       .arrow-down {
         width: 0;
         height: 0;
@@ -148,7 +197,7 @@ export class EnhancedPauseComponent extends DDDSuper(LitElement) {
   }
 
   handlePause = () => {
-    console.log('handlePause called');
+    // console.log('handlePause called');
     if (this.visibleContent < this.labels.length) {
       this.visibleContent++;
       this.launchConfetti();
@@ -161,7 +210,7 @@ export class EnhancedPauseComponent extends DDDSuper(LitElement) {
   }
 
   showAll = () => {
-    console.log('showAll called');
+    // console.log('showAll called');
     this.visibleContent = this.labels.length;
     this.showButtons = false;
     this.launchConfetti();

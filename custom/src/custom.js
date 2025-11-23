@@ -9,3 +9,4 @@
  import "./custom-eval2-theme.js";
  import "./kuis-confeti.js";
 import "./quiz-sheets-sender.js";
+import "./pausev6.js";

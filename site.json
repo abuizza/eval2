@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763159289,
-      "updated": 1763867150,
+      "updated": 1763869900,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -62,7 +62,7 @@
   "items": [
     {
       "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
       "slug": "kritis",
       "order": 0,
@@ -71,7 +71,7 @@
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763779223,
+        "updated": 1763869900,
         "images": {},
         "videos": {},
         "published": true,
@@ -202,7 +202,7 @@
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763725506,
+        "updated": 1763869900,
         "images": {},
         "videos": {},
         "published": true,
@@ -238,13 +238,13 @@
       "indent": 0,
       "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
       "slug": "home",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Selamat Datang di Media Belajar Berpikir",
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763725506,
+        "updated": 1763869900,
         "images": {},
         "videos": {},
         "published": true,
@@ -293,13 +293,13 @@
       "indent": 0,
       "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
       "slug": "portfolio",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Welcome Copy",
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763725506,
+        "updated": 1763869900,
         "images": {},
         "videos": {},
         "theme": {
@@ -353,7 +353,7 @@
       "description": "",
       "metadata": {
         "created": 1763716065,
-        "updated": 1763725506,
+        "updated": 1763869899,
         "images": [],
         "videos": [],
         "published": true,
@@ -375,7 +375,7 @@
         "created": 1763716114,
         "images": {},
         "videos": {},
-        "updated": 1763725506,
+        "updated": 1763869899,
         "published": true,
         "pageType": "content",
         "hideInMenu": true,
@@ -409,13 +409,13 @@
       "indent": 0,
       "location": "pages/item-a8118712-0876-4311-9451-b3d0a5b7525c/index.html",
       "slug": "page-1",
-      "order": 1,
+      "order": 0,
       "parent": null,
       "title": "Page",
       "description": "tes kuis\n",
       "metadata": {
         "created": 1763717438,
-        "updated": 1763867149,
+        "updated": 1763869899,
         "images": {},
         "videos": {},
         "published": true,
@@ -436,9 +436,63 @@
       "description": "",
       "metadata": {
         "created": 1763869760,
-        "updated": 1763869760,
+        "updated": 1763869899,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-b3bf1693-3358-40f6-816a-be918070b260",
+      "indent": 0,
+      "location": "pages/item-b3bf1693-3358-40f6-816a-be918070b260/index.html",
+      "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika",
+      "order": 4,
+      "parent": null,
+      "title": "Copy of Bab Berpikir Kritis dan Dampak Sosial Informatika",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1763869900,
+        "images": [],
+        "videos": [],
+        "updated": 1763869900
+      }
+    },
+    {
+      "id": "item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626",
+      "indent": 1,
+      "location": "pages/item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626/index.html",
+      "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-berpikir-kritis-dan-pengambilan-keputusan",
+      "order": 0,
+      "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+      "title": "Copy of Berpikir Kritis dan Pengambilan Keputusan",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1763869900,
+        "images": [],
+        "videos": [],
+        "updated": 1763869900
+      }
+    },
+    {
+      "id": "item-29ca7217-5265-43d1-b462-98bd032ea69f",
+      "indent": 1,
+      "location": "pages/item-29ca7217-5265-43d1-b462-98bd032ea69f/index.html",
+      "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
+      "order": 1,
+      "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+      "title": "Copy of Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1763869900,
+        "images": [],
+        "videos": [],
+        "updated": 1763869900
       }
     }
   ]

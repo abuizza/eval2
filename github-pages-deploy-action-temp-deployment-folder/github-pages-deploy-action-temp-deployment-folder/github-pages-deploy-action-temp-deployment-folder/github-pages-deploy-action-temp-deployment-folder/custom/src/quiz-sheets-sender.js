@@ -35,14 +35,17 @@ class QuizSheetsSender extends LitElement {
     }
 
     async _onFinished(e) {
-        if (!this.webAppUrl) {
-            this.lastStatus = 'No webAppUrl configured; skipping send.';
+        const detail = e.detail || {};
+        const result = detail.result || {};
+        const user = detail.user || {};
+
+        // Prioritaskan webAppUrl di komponen ini; jika kosong, pakai yang dikirim dari confetti-quiz
+        const endpoint = this.webAppUrl || detail.webAppUrl;
+        if (!endpoint) {
+            this.lastStatus = 'No webAppUrl provided; skipping send.';
             return;
         }
         try {
-            const detail = e.detail || {};
-            const result = detail.result || {};
-            const user = detail.user || {};
             const iddata = String(result.finished ? (result.score + '-' + (result.total || 0) + '-' + (user.name || '') + '-' + (user.phone || '') + '-' + (user.address || '') + '-' + (detail.slug || '') + '-' + Date.now()) : Date.now());
             if (this._lastSentId === iddata) {
                 return;
@@ -60,8 +63,8 @@ class QuizSheetsSender extends LitElement {
                 alamatorng: user.address || '',
                 keterangan: `Kuis: ${detail.slug || ''} - ${result.percentage || 0}% (${result.score || 0}/${result.total || 0})`
             });
-            console.log('[quiz-sheets-sender] Sending:', this.webAppUrl, params.toString());
-            await fetch(this.webAppUrl, {
+            console.log('[quiz-sheets-sender] Sending:', endpoint, params.toString());
+            await fetch(endpoint, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
                 body: params,
@@ -76,3 +79,12 @@ class QuizSheetsSender extends LitElement {
 }
 
 customElements.define('quiz-sheets-sender', QuizSheetsSender);
+
+// Otomatis buat satu instance global agar tidak perlu menambahkan tag di setiap halaman
+if (typeof window !== 'undefined' && !window.__quizSheetsSenderSingleton) {
+    const el = document.createElement('quiz-sheets-sender');
+    el.listen = true;
+    el.style.display = 'none';
+    document.body.appendChild(el);
+    window.__quizSheetsSenderSingleton = el;
+}

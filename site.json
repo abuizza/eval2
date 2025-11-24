@@ -71,7 +71,7 @@
       "description": " ",
       "metadata": {
         "created": 1763695481,
-        "updated": 1763869900,
+        "updated": 1763946163,
         "images": {},
         "videos": {},
         "published": true,
@@ -202,7 +202,7 @@
       "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
       "metadata": {
         "created": 1763159343,
-        "updated": 1763869900,
+        "updated": 1763946163,
         "images": {},
         "videos": {},
         "published": true,
@@ -238,13 +238,13 @@
       "indent": 0,
       "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
       "slug": "home",
-      "order": 5,
+      "order": 4,
       "parent": null,
       "title": "Selamat Datang di Media Belajar Berpikir",
       "description": "tes kosong\n\n",
       "metadata": {
         "created": 1763418769,
-        "updated": 1763869900,
+        "updated": 1763946163,
         "images": {},
         "videos": {},
         "published": true,
@@ -293,13 +293,13 @@
       "indent": 0,
       "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
       "slug": "portfolio",
-      "order": 6,
+      "order": 5,
       "parent": null,
       "title": "Welcome Copy",
       "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
       "metadata": {
         "created": 1763588174,
-        "updated": 1763869900,
+        "updated": 1763946163,
         "images": {},
         "videos": {},
         "theme": {
@@ -353,7 +353,7 @@
       "description": "",
       "metadata": {
         "created": 1763716065,
-        "updated": 1763869899,
+        "updated": 1763946162,
         "images": [],
         "videos": [],
         "published": true,
@@ -375,7 +375,7 @@
         "created": 1763716114,
         "images": {},
         "videos": {},
-        "updated": 1763869899,
+        "updated": 1763946163,
         "published": true,
         "pageType": "content",
         "hideInMenu": true,
@@ -415,7 +415,7 @@
       "description": "tes kuis\n",
       "metadata": {
         "created": 1763717438,
-        "updated": 1763869899,
+        "updated": 1763946162,
         "images": {},
         "videos": {},
         "published": true,
@@ -426,30 +426,11 @@
       }
     },
     {
-      "id": "item-180dedc9-60ec-4db6-8fe8-0b5f8add8481",
-      "indent": 0,
-      "location": "pages/item-180dedc9-60ec-4db6-8fe8-0b5f8add8481/index.html",
-      "slug": "page-copy",
-      "order": 1,
-      "parent": null,
-      "title": "Page Copy",
-      "description": "",
-      "metadata": {
-        "created": 1763869760,
-        "updated": 1763869899,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
       "id": "item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626/index.html",
       "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-berpikir-kritis-dan-pengambilan-keputusan",
-      "order": 9,
+      "order": 6,
       "parent": null,
       "title": "Copy of Berpikir Kritis dan Pengambilan Keputusan",
       "description": "",
@@ -458,15 +439,17 @@
         "created": 1763869900,
         "images": [],
         "videos": [],
-        "updated": 1763869900
+        "updated": 1763946163,
+        "published": true,
+        "status": ""
       }
     },
     {
       "id": "item-29ca7217-5265-43d1-b462-98bd032ea69f",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-29ca7217-5265-43d1-b462-98bd032ea69f/index.html",
       "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
-      "order": 10,
+      "order": 7,
       "parent": null,
       "title": "Copy of Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
       "description": "",
@@ -475,7 +458,9 @@
         "created": 1763869900,
         "images": [],
         "videos": [],
-        "updated": 1763869900
+        "updated": 1763946164,
+        "published": true,
+        "status": ""
       }
     }
   ]

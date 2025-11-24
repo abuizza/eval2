@@ -405,25 +405,6 @@
         "hideInMenu": false,
         "readtime": 1
       }
-    },
-    {
-      "id": "item-29ca7217-5265-43d1-b462-98bd032ea69f",
-      "indent": 0,
-      "location": "pages/item-29ca7217-5265-43d1-b462-98bd032ea69f/index.html",
-      "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
-      "order": 7,
-      "parent": null,
-      "title": "Copy of Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1763869900,
-        "images": [],
-        "videos": [],
-        "updated": 1763946164,
-        "published": true,
-        "status": ""
-      }
     }
   ]
 }

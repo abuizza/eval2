@@ -494,22 +494,6 @@
         "videos": [],
         "updated": 1763869900
       }
-    },
-    {
-      "id": "item-ffda8eac-0561-4489-8c42-bade66d38f17",
-      "indent": 0,
-      "location": "pages/item-ffda8eac-0561-4489-8c42-bade66d38f17/index.html",
-      "slug": "tes1",
-      "order": 0,
-      "parent": null,
-      "title": "tes1",
-      "description": "",
-      "metadata": {
-        "created": 1763873505,
-        "updated": 1763873505,
-        "images": [],
-        "videos": []
-      }
     }
   ]
 }

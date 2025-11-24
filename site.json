@@ -445,29 +445,12 @@
       }
     },
     {
-      "id": "item-b3bf1693-3358-40f6-816a-be918070b260",
-      "indent": 0,
-      "location": "pages/item-b3bf1693-3358-40f6-816a-be918070b260/index.html",
-      "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika",
-      "order": 4,
-      "parent": null,
-      "title": "Copy of Bab Berpikir Kritis dan Dampak Sosial Informatika",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1763869900,
-        "images": [],
-        "videos": [],
-        "updated": 1763869900
-      }
-    },
-    {
       "id": "item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626",
       "indent": 1,
       "location": "pages/item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626/index.html",
       "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-berpikir-kritis-dan-pengambilan-keputusan",
-      "order": 0,
-      "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+      "order": 9,
+      "parent": null,
       "title": "Copy of Berpikir Kritis dan Pengambilan Keputusan",
       "description": "",
       "metadata": {
@@ -483,8 +466,8 @@
       "indent": 1,
       "location": "pages/item-29ca7217-5265-43d1-b462-98bd032ea69f/index.html",
       "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
-      "order": 1,
-      "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+      "order": 10,
+      "parent": null,
       "title": "Copy of Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
       "description": "",
       "metadata": {
